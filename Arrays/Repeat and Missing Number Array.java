@@ -2,20 +2,56 @@ public class Solution {
     // DO NOT MODIFY THE LIST. IT IS READ ONLY
     public ArrayList<Integer> repeatedNumber(final List<Integer> A) 
     {
-        long n=A.size();
-        long sum=(n*(n+1))/(long)2;
-        long sumSq=(n*(n+1)*(2*n+1))/(long)6;
-        for(int i=0;i<n;i++)
+        int xor=A.get(0);
+        for(int i=1;i<A.size();i++)
         {
-            long a=A.get(i);
-            sum-=a;
-            sumSq-=a*a;
+            xor=xor^A.get(i);
         }
-        long missing=(sum+sumSq/sum)/(long)2;
-        long repeat=missing-sum;
-        ArrayList<Integer> ar=new ArrayList<Integer>();
-        ar.add((int)repeat);
-        ar.add((int)missing);
-        return ar;
+        for(int i=1;i<=A.size();i++)
+        {
+            xor=xor^i;
+        }
+        
+        int setBit=xor&~(xor-1);
+        int x=0;
+        int y=0;
+        for(int i=0;i<A.size();i++)
+        {
+            int a=A.get(i);
+            if((a&setBit)!=0)
+            {
+                x=x^a;
+            }
+            else
+            {
+                y=y^a;
+            }
+        }
+        for(int i=1;i<=A.size();i++)
+        {
+            if((i&setBit)!=0)
+            {
+                x=x^i;
+            }
+            else
+            {
+                y=y^i;
+            }
+        }
+        int j=0;
+        for(;j<A.size();j++)
+        {
+            if(x==A.get(j))
+            {
+                ArrayList<Integer> ans=new ArrayList<>();
+                ans.add(x);
+                ans.add(y);
+                return ans;
+            }
+        }
+        ArrayList<Integer> ans=new ArrayList<>();
+        ans.add(y);
+        ans.add(x);
+        return ans;
     }
 }
