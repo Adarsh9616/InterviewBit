@@ -2,4 +2,4 @@
 Interview Practice Problems from InterviewBit.com
 
 ## TimeComplexity - 85%
-## Arrays - 70%
+## Arrays - 79%
