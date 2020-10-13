@@ -5,4 +5,4 @@ Interview Practice Problems from InterviewBit.com
 ## Arrays - 80%
 ## Maths - 40%
 ## Binary Search - 0%
-## Dynamic Programming
+## Dynamic Programming - 0%
