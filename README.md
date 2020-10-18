@@ -6,3 +6,4 @@ Interview Practice Problems from InterviewBit.com
 ## Maths - 75%
 ## Binary Search - 0%
 ## Dynamic Programming - 0%
+## Strings - 0%
