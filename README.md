@@ -7,3 +7,4 @@ Interview Practice Problems from InterviewBit.com
 ## Binary Search - 57%
 ## Dynamic Programming - 0%
 ## Strings - 39%
+## Bit Manipulation - 81%
