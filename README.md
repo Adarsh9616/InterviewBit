@@ -5,7 +5,7 @@ Interview Practice Problems from InterviewBit.com
 ## Arrays - 80%
 ## Maths - 100%
 ## Binary Search - 57%
-## Dynamic Programming - 0%
+## Dynamic Programming - 20%
 ## Strings - 39%
 ## Bit Manipulation - 81%
 ## Two Pointers - 33%
