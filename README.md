@@ -8,5 +8,5 @@ Interview Practice Problems from InterviewBit.com
 ## Dynamic Programming - 0%
 ## Strings - 50%
 ## Bit Manipulation - 81%
-## Two Pointers - 48%
+## Two Pointers - 52%
 ## Linked Lists - 54%
