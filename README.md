@@ -9,4 +9,4 @@ Interview Practice Problems from InterviewBit.com
 ## Strings - 50%
 ## Bit Manipulation - 89%
 ## Two Pointers - 52%
-## Linked Lists - 54%
+## Linked Lists - 59%
