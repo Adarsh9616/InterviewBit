@@ -10,3 +10,5 @@ Interview Practice Problems from InterviewBit.com
 ## Bit Manipulation - 89%
 ## Two Pointers - 52%
 ## Linked Lists - 59%
+## Stacks & Queues - 38%
+
