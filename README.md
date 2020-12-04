@@ -10,5 +10,5 @@
 ## Bit Manipulation - 89%
 ## Two Pointers - 52%
 ## Linked Lists - 59%
-## Stacks & Queues - 38%
+## Stacks & Queues - 50%
 
