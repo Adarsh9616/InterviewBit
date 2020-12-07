@@ -10,6 +10,6 @@
 ## Bit Manipulation - 89%
 ## Two Pointers - 52%
 ## Linked Lists - 59%
-## Stacks & Queues - 50%
+## Stacks & Queues - 82%
 ## Backtracking - 0%
 
