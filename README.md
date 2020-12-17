@@ -4,7 +4,7 @@
 ## TimeComplexity - 85%
 ## Arrays - 80%
 ## Maths - 97%
-## Binary Search - 57%
+## Binary Search - 68%
 ## Dynamic Programming - 0%
 ## Strings - 58%
 ## Bit Manipulation - 89%
