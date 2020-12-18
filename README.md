@@ -12,6 +12,6 @@
 ## Linked Lists - 59%
 ## Stacks & Queues - 82%
 ## Backtracking - 18%
-## Hashing - 0%
+## Hashing - 19%
 
 
