@@ -11,5 +11,5 @@
 ## Two Pointers - 52%
 ## Linked Lists - 59%
 ## Stacks & Queues - 82%
-## Backtracking - 32%
+## Backtracking - 34%
 ## Hashing - 27%
