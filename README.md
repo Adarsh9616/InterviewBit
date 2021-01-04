@@ -6,7 +6,7 @@
 ## Maths - 97%
 ## Binary Search - 61%
 ## Dynamic Programming - 0%
-## Strings - 58%
+## Strings - 61%
 ## Bit Manipulation - 89%
 ## Two Pointers - 52%
 ## Linked Lists - 59%
