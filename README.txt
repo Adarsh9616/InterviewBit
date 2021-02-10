@@ -14,4 +14,4 @@
 ## Backtracking - 45%
 ## Hashing - 48%
 ## Heaps and Maps - 60%
-## Tree Data Structures - 38%
+## Tree Data Structures - 58%
